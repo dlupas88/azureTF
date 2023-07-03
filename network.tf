@@ -11,7 +11,3 @@ resource   "azurerm_virtual_network"   "myvnet"   {
    virtual_network_name   =   azurerm_virtual_network.myvnet.name 
    address_prefixes   =    [ "10.0.1.0/24" ]  
  } 
-
-
-
-asdasdasd
