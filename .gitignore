@@ -2,3 +2,9 @@
 /.terraform.lock.hcl
 /terraform.tfstate
 /terraform.tfstate.backup
+key vault/terraform.tfstate
+key vault/.terraform.lock.hcl
+key vault/.terraform.tfstate.lock.info
+key vault/terraform.tfstate.backup
+.gitignore
+key vault/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.63.0/windows_amd64/terraform-provider-azurerm_v3.63.0_x5.exe
